@@ -1,7 +1,8 @@
-### Walker-Optimization-Main
+### Walker Dataset and Optimization
 
 Paper can be found here: https://arxiv.org/abs/2310.18772  
 All the project code and data can be found under the directory Walker-Optimization-FINAL  
+The complete dataset is in formattedData_with_perf_values.csv
 
 ## Design Generation
 
@@ -19,6 +20,8 @@ The parametric model and simulation setups of the walker can be found in the Sol
 The above file is compatible with SOLIDWORKS 2022.
 
 To input and simulate walker configurations, use the Design Study feature in the SolidWorks desktop app. This outputs CSV files with the raw simulation data. This data is run in batches of 200.
+
+Please refer to the paper for more details on the parametric model.
 
 ## Simulation Result Formatting
 
