@@ -2,7 +2,6 @@
 
 Paper can be found here: https://arxiv.org/abs/2310.18772  
 All the project code and data can be found under the directory Walker-Optimization-FINAL  
-Other directories under the root branch are outdated (Material_Correction, Result_Fitting, Sobol_Generation_Walker)  
 
 ## Design Generation
 
