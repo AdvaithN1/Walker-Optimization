@@ -1,6 +1,8 @@
 ### Walker Dataset and Optimization
 
-Paper can be found here: https://arxiv.org/pdf/2310.18772  
+Full Paper: https://arxiv.org/pdf/2310.18772  
+IDETC Abstract: https://idetc.secure-platform.com/a/solicitations/228/sessiongallery/17287/application/145053  
+IDETC Presentation: [IDETC_Presentation_26Aug2024.pdf](https://github.com/AdvaithN1/Walker-Optimization/blob/main/IDETC_Presentation_26Aug2024.pdf)  
 All the project code and data can be found under the directory Walker-Optimization-FINAL  
 The complete dataset is in formattedData_with_perf_values.csv
 
