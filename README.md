@@ -1,6 +1,6 @@
 ### Walker Dataset and Optimization
 
-Paper can be found here: https://arxiv.org/abs/2310.18772  
+Paper can be found here: https://arxiv.org/pdf/2310.18772  
 All the project code and data can be found under the directory Walker-Optimization-FINAL  
 The complete dataset is in formattedData_with_perf_values.csv
 
